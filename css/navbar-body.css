@@ -1,0 +1,674 @@
+@import url(//db.onlinewebfonts.com/c/d5ae0cdefc29a7119a07b106dfd9119a?family=Alcala-Bold);
+
+#navbarNavAltMarkup{
+    justify-content: space-between;
+}
+
+#main-body-bg{
+    background-image: url(bg.webp);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: scroll;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 89%;
+    display: flex;
+    align-items: center;
+}
+
+#main-body-bg-2{
+    background-image: url(bg2.webp);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: scroll;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+#main-body-bg-3{
+    background-image: url(bg3.webp);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: scroll;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+#main-body-bg-4{
+    background-image: url(bg4.webp);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: scroll;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+#main-body-bg-5{
+    background-image: url(bg5.webp);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: scroll;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+#main-body-bg-6{
+    background-image: url(bg6.webp);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: scroll;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+#main-body-bg-7{
+    background-image: url(bg7.webp);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: scroll;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+
+#main-body-bg-tokenomics{
+    background-image: url(token.webp);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: scroll;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 120%;
+    display: flex;
+    align-items: center;
+}
+
+#main-body-bg-roadmap{
+    background-image: url(token2.webp);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: scroll;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 120%;
+    display: flex;
+    align-items: center;
+}
+
+.navbar{
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 600;
+    height: 11%;
+    background-color: #100c0b;
+}
+
+.navbar-nav{
+    background-color: #100c0b;
+}
+
+.nav-link{
+    margin-right: 2.5rem;
+    margin-left: 2.5rem;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 25px;
+    color: white !important;
+}
+.nav-link:hover{
+    color: rgb(255, 154, 24)!important;
+}
+
+.navbar-toggler{
+    border: none !important;
+}
+
+.text-links{
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+    font-weight: 100;
+}
+
+.text-links:hover{
+    color: rgb(255, 154, 24)!important;
+}
+
+.body-container{
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.body-container-2{
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.body-container-3{
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.body-container-4{
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.body-container-5{
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.body-container-6{
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.body-container-7{
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.body-container-tokenomics{
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.body-container-roadmap{
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.footer-links:hover{
+    color: rgb(255, 154, 24)!important;
+}
+
+.main-title{
+    font-family: Poppins, sans-serif;
+    font-size: 65px;
+    font-weight: 700;
+    line-height: 65px;
+    color: white;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 2px #fff, 0 0 0px #ff5c0f, 0 0 80px #ff5c0f, 0 0 90px #ff9f19, 0 0 50px #ff9f19, 0 0 50px #ff9f19;
+}
+
+.main-title-2{
+    font-family: Poppins, sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+    text-align: end;
+    line-height: 55px;
+    color: white;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 2px #fff, 0 0 0px #ff5c0f, 0 0 80px #ff5c0f, 0 0 90px #ff9f19, 0 0 50px #ff9f19, 0 0 50px #ff9f19;
+}
+
+.main-title-3{
+    font-family: Poppins, sans-serif;
+    font-size: 65px;
+    font-weight: 700;
+    text-align: start;
+    line-height: 65px;
+    margin-bottom: 30px;
+    color: white;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 2px #fff, 0 0 0px #ff5c0f, 0 0 80px #ff5c0f, 0 0 90px #ff9f19, 0 0 50px #ff9f19, 0 0 50px #ff9f19;
+}
+
+.main-title-4{
+    font-family: Poppins, sans-serif;
+    font-size: 55px;
+    font-weight: 700;
+    text-align: end;
+    line-height: 55px;
+    color: white;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 2px #fff, 0 0 0px #ff5c0f, 0 0 80px #ff5c0f, 0 0 90px #ff9f19, 0 0 50px #ff9f19, 0 0 50px #ff9f19;
+}
+
+.main-title-5{
+    font-family: Poppins, sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+    text-align: start;
+    line-height: 55px;
+    margin-bottom: 30px;
+    color: white;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 2px #fff, 0 0 0px #ff5c0f, 0 0 80px #ff5c0f, 0 0 90px #ff9f19, 0 0 50px #ff9f19, 0 0 50px #ff9f19;
+}
+
+.main-title-6{
+    font-family: Poppins, sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    text-align: end;
+    line-height: 45px;
+    color: white;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 2px #fff, 0 0 0px #ff5c0f, 0 0 80px #ff5c0f, 0 0 90px #ff9f19, 0 0 50px #ff9f19, 0 0 50px #ff9f19;
+}
+
+.main-title-7{
+    font-family: Poppins, sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+    text-align: start;
+    line-height: 55px;
+    margin-bottom: 30px;
+    color: white;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 2px #fff, 0 0 0px #ff5c0f, 0 0 80px #ff5c0f, 0 0 90px #ff9f19, 0 0 50px #ff9f19, 0 0 50px #ff9f19;
+}
+
+.main-title-tokenomics{
+    font-family: Poppins, sans-serif;
+    font-size: 65px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 65px;
+    color: white;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 2px #fff, 0 0 0px #ff5c0f, 0 0 80px #ff5c0f, 0 0 90px #ff9f19, 0 0 50px #ff9f19, 0 0 50px #ff9f19;
+}
+
+.main-title-roadmap{
+    font-family: Poppins, sans-serif;
+    font-size: 65px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 65px;
+    color: white;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 2px #fff, 0 0 0px #ff5c0f, 0 0 80px #ff5c0f, 0 0 90px #ff9f19, 0 0 50px #ff9f19, 0 0 50px #ff9f19;
+}
+
+.sub-main-title{
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 23px;
+    color: white;
+}
+
+.sub-main-title-2{
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    text-align: end;
+    font-weight: 300;
+    line-height: 23px;
+    color: white;
+}
+
+.sub-main-title-3{
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    text-align: start;
+    font-weight: 300;
+    line-height: 23px;
+    color: white;
+}
+
+.sub-main-title-4{
+    margin-top: 5px;
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    text-align: end;
+    font-weight: 300;
+    line-height: 23px;
+    color: white;
+}
+
+.sub-main-title-5{
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    text-align: start;
+    font-weight: 300;
+    line-height: 23px;
+    color: white;
+}
+
+.sub-main-title-6{
+    margin-top: 5px;
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    text-align: end;
+    font-weight: 300;
+    line-height: 23px;
+    color: white;
+}
+
+.sub-main-title-7{
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    text-align: start;
+    font-weight: 300;
+    line-height: 23px;
+    color: white;
+}
+
+.sub-main-title-tokenomics{
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 300;
+    line-height: 23px;
+    color: white;
+}
+
+.sub-main-title-roadmap{
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 300;
+    line-height: 23px;
+    color: white;
+}
+
+.title-buttons{
+    justify-content: space-around;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.title-buttons-2{
+    justify-content: space-around;
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+}
+
+.title-buttons-3{
+    justify-content: space-around;
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+}
+
+.title-buttons-4{
+    justify-content: space-around;
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+}
+
+.title-buttons-5{
+    justify-content: space-around;
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+}
+
+.title-buttons-6{
+    justify-content: space-around;
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+}
+
+.title-buttons-7{
+    justify-content: space-around;
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+}
+
+#joinButton{
+    text-decoration: none;
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 16px;
+    color: rgb(62, 14, 0);
+    margin-top: 10px;
+    text-align: center;
+    padding: 16px 0px;
+    margin-right: 20px;
+    width: 250px;
+    border-radius: 7px;
+    border: #ff4c0c solid 1px;
+    background: linear-gradient(#FFAC00, #ff4c0c);
+}
+
+#chart-btn{
+    text-decoration: none;
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 16px;
+    color: rgb(62, 14, 0);
+    margin-top: 10px;
+    text-align: center;
+    padding: 16px 0px;
+    width: 160px;
+    border-radius: 7px;
+    border: #ff4c0c solid 1px;
+    background: linear-gradient(#FFAC00, #ff4c0c);
+}
+
+.roadmap-title{
+    background-color: #fa9c1a;
+    padding: 20px 10px;
+    font-size: 22px;
+    font-weight: 700;
+    color: white;
+    border-radius: 10px 10px 0 0;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 0;
+}
+
+.roadmap-sub-container{
+    background-color: rgb(0, 0, 0, 0.6);
+    padding: 20px 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+}
+
+.roadmap-sub-title{
+    margin: 0;
+    font-size: 15px;
+    font-weight: 400;
+    color: white;
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    text-align: start;
+    justify-content: center;
+    line-height: 26px;
+}
+
+.roadmap-container{
+    flex-wrap: wrap;
+}
+
+.roadmap-quarter{
+    width: 500px;
+}
+
+#joinButton:hover{
+    opacity: 85%;
+}
+
+#chart-btn:hover{
+    opacity: 85%;
+}
+
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    background-color: rgb(0, 0, 0, 0.6);
+    color: white;
+    cursor: pointer;
+    padding: 25px;
+    border-radius: 5px;
+  }
+  
+  #myBtn:hover {
+    background-color: rgb(0, 0, 0, 0.8);
+  }
+
+@media only screen and (max-width: 991.5px) {
+    .logo-middle{
+        display: none !important;
+    }
+    .nav-item{
+        height: 50px !important;
+    }
+    .nav-link{
+        font-size: 25px !important;
+    }
+    .footballDaoHorizantol{
+        display: none !important;
+        padding-top: 25%;
+    }
+    .container-body{
+        height: 90%;
+        justify-content: space-between;
+    }
+}
+
+@media only screen and (max-width: 625px) {
+    .bodyTextTitle{
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 590px) {
+    #chart-btn{
+        margin-top: 10px;
+    }
+    .title-buttons{
+        margin-top: 0px!important;
+    }
+    .title-buttons-2{
+        margin-top: 0px!important;
+    }
+    .title-buttons-3{
+        margin-top: 0px!important;
+    }
+    .title-buttons-4{
+        margin-top: 0px!important;
+    }
+    .title-buttons-5{
+        margin-top: 0px!important;
+    }
+    .title-buttons-6{
+        margin-top: 0px!important;
+    }
+    .title-buttons-7{
+        margin-top: 0px!important;
+    }
+    #joinButton{
+        margin-top: 10px;
+    }
+}
+
+@media only screen and (min-width: 991.5px) {
+    .mobile-logo{
+        display: none !important;
+    }
+    .navbar-nav{
+        width: 900px!important;
+    }
+    .body-container{
+        width: 500px;
+        margin-left: 200px!important;
+    }
+    .body-container-2{
+        width: 500px;
+        margin-right: 200px!important;
+    }
+    .body-container-3{
+        width: 500px;
+        margin-left: 200px!important;
+    }
+    .body-container-4{
+        width: 500px;
+        margin-right: 200px!important;
+    }
+    .body-container-5{
+        width: 500px;
+        margin-left: 200px!important;
+    }
+    .body-container-6{
+        width: 500px;
+        margin-right: 200px!important;
+    }
+    .body-container-7{
+        width: 500px;
+        margin-left: 200px!important;
+    }
+}
+
+@media only screen and (min-width: 1460px) {
+    .roadmap-cnt{
+        width: 70%!important;
+    }
+}
+
+@media only screen and (max-width: 1460px) {
+    .roadmap-cnt{
+        width: 80%!important;
+    }
+}
+
+@media only screen and (max-width: 1208px) {
+    #main-body-bg-roadmap{
+        height: 180%;
+    }
+    .contain-1{
+        margin: 0 auto;
+        margin-bottom: 50px;
+    }
+    .contain-2{
+        margin: 0 auto;
+    }
+}
